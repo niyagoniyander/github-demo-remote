@@ -22,3 +22,5 @@ stash
 Change3
 
 creating a bug123 branch on remote
+
+newline
