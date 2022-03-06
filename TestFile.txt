@@ -1,0 +1,20 @@
+Hello world!! akki pakki!! ka kari rora
+Hello world!! akki pakki!! conflict resolved
+
+
+ki re chhora
+
+sadfsadfsdaf
+
+ha re bol na ki bhelo - nae bolbo ki ka lebhi
+bug789 ha re bolna ki bhelo added -- conflict resolved in rebase
+
+sdfasdf
+
+Change for commit am for WI1
+
+New changes to compare
+
+stash
+
+Change3
